@@ -1,11 +1,11 @@
 {
-    "name": "ENDORPHIN #144",
+    "name": "ENDORPHIN #145",
     "description": "Become an NFT holder and get the maximum benefit from the project.",
-    "image": "https://raw.githubusercontent.com/w-HAMER/testnfts/main/images/144.jpeg",
+    "image": "https://raw.githubusercontent.com/w-HAMER/testnfts/main/images/145.jpeg",
     "attributes": [
         {
             "trait_type": "Background",
-            "value": "Blue"
+            "value": "Green"
         },
         {
             "trait_type": "T",
@@ -17,11 +17,11 @@
         },
         {
             "trait_type": "Light",
-            "value": "L3"
+            "value": "L2"
         },
         {
             "trait_type": "Lollipop",
-            "value": "First"
+            "value": "Third"
         }
     ]
 }
