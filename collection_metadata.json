@@ -1,12 +1,10 @@
 {
    "name": "ENDORPHIN NFT",
    "description": "A collection that expresses the individuality of the Endorphin Launchpad. Each NFT provides benefits to its owners, depending on the color.",
-   "image": "https://s.getgems.io/nft/c/62bc87fa0c1958e8cea263c6/avatar/62bc87c57a6973b2b90873cf.png",
-   "external_url": "https://getgems.io/collection/EQANtTmGAs5ZwkyyeAPrxE7uDqfv91oIUuZeg2i7Rm9sO7qi",
-   "external_link": null,
+   "image": "https://raw.githubusercontent.com/w-HAMER/edph/main/default_image.png",
    "social_links": [
      "https://t.me/endorphin_ton"
     ],
    "marketplace": "getgems.io",
-   "cover_image": "https://s.getgems.io/nft/c/62bc87fa0c1958e8cea263c6/edit/images/6420d66236b4a0c77aea19a9.png"
+   "cover_image": "https://raw.githubusercontent.com/w-HAMER/edph/main/cover_image.png"
 }
